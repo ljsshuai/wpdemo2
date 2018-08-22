@@ -1,0 +1,10 @@
+body {
+    background-color: pink;
+    color:olivedrab;
+}
+.img
+{
+    background-image: url("../img/footbg.png");
+    width: 1920px;
+    height: 592px;
+}
